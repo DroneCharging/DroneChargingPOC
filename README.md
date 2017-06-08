@@ -1,5 +1,6 @@
-<h1>Blockchain at Berkeley's Drones Project</h1>
-<h2>An Internet of Things and Server Project</h2>
+<h1> The Drones Project</h2>
+<h3> A Back-end Prototype for B@B's Drone Project</h3>
+
 <body>The purpose of this project is to develop proof-of-concept and proof-of-practicality
 by developing a prototype system that allows for automatic remote charging of drones.
 The vision behind this project is to provide an infrastructure for drones that is
