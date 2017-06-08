@@ -1,4 +1,5 @@
 <h1>Blockchain at Berkeley's Drones Project</h1>
+<h2>An Internet of Things and Server Project</h2>
 <body>The purpose of this project is to develop proof-of-concept and proof-of-practicality
 by developing a prototype system that allows for automatic remote charging of drones.
 The vision behind this project is to provide an infrastructure for drones that is
@@ -38,9 +39,9 @@ client (the drone owner) and a merchant (a charging pad owner). The flow of the 
 
 
 <h3>Team:</h3>
-Abhinav Patel (Project Lead, server team): https://www.linkedin.com/in/abhinavrpatel/<br>
-Eric Kong (server team): https://www.linkedin.com/in/erickong98/<br>
-Ashwinee Panda (charging pad team):  https://www.linkedin.com/in/ashwineepanda/<br>
-Aakash Parikh (charging pad team): https://www.linkedin.com/in/aakashparikh/<br>
+Abhinav Patel (Project Lead, Server Team): https://www.linkedin.com/in/abhinavrpatel/<br>
+Eric Kong (Server Team): https://www.linkedin.com/in/erickong98/<br>
+Ashwinee Panda (Charging Pad team):  https://www.linkedin.com/in/ashwineepanda/<br>
+Aakash Parikh (Charging Pad team): https://www.linkedin.com/in/aakashparikh/<br>
 </body>
 
