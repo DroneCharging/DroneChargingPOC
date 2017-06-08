@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+    <servlet>
+        <servlet-name>ClientServlet</servlet-name>
+        <servlet-class>blockchain.drones.ClientServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ClientServlet</servlet-name>
+        <url-pattern>/client</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DeviceServlet</servlet-name>
+        <servlet-class>blockchain.drones.DeviceServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeviceServlet</servlet-name>
+        <url-pattern>/device</url-pattern>
+    </servlet-mapping>
+</web-app>
+
+        <!--?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+		  http://java.sun.com/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+<servlet>
+    <servlet-name>ClientServlet</servlet-name>
+    <servlet-class>blockchain.drones.ClientServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>ClientServlet</servlet-name>
+    <url-pattern>/client</url-pattern>
+</servlet-mapping>
+
+<servlet>
+    <servlet-name>DeviceServlet</servlet-name>
+    <servlet-class>blockchain.drones.DeviceServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>DeviceServlet</servlet-name>
+    <url-pattern>/device</url-pattern>
+</servlet-mapping>
+</web-app-->
